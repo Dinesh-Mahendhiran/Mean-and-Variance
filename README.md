@@ -85,3 +85,7 @@ print("Variance= ",variance)
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
+## Github Link:
+```
+https://github.com/Dinesh-Mahendhiran/Mean-and-Variance.git
+```
